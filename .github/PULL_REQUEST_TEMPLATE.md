@@ -2,21 +2,14 @@
 
 <!-- REQUIRED Describe the goal and the type of changes this pull request covers. -->
 
-This pull request (PR) ...
+This pull request (PR) Spell correction
 
 ## Affected DevDocs pages
 
 <!-- REQUIRED List the affected pages on devdocs.magento.com (URLs). Not needed for large numbers of files. -->
 
-- ...
-- ...
+- https://devdocs.magento.com/extensions/amazon-sales/
 
-## Links to Magento source code
-
-<!--  OPTIONAL - REMOVE THIS SECTION IF NOT USED. If this pull request references a file in a Magento codebase repository, add it here. -->
-
-- ...
-- ...
 
 <!-- 
 If you are fixing a GitHub issue, note it using GitHub keyword format (https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-a-different-repository) to close the issue when this pull request is merged. Example: `Fixes #1234`
